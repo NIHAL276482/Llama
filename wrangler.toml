@@ -1,5 +1,5 @@
 # wrangler.toml
-name = "openrouter-chat-worker"
+name = "qwen-3-a"
 main = "index.js"
 compatibility_date = "2025-06-01"
 workers_dev = true

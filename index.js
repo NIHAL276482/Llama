@@ -1,7 +1,7 @@
 // index.js
 const OPENROUTER_API_KEY = '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';
 const OPENROUTER_API_URL = 'https://openrouter.ai/api/v1/chat/completions';
-const MODEL = 'meta-llama/llama-4-maverick:free';
+const MODEL = 'qwen/qwen3-235b-a22b:free';
 
 export default {
   async fetch(request, env, ctx) {

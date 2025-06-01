@@ -1,0 +1,9 @@
+# wrangler.toml
+name = "openrouter-chat-worker"
+main = "index.js"
+compatibility_date = "2025-06-01"
+workers_dev = true
+
+# No custom domain, uses default *.workers.dev
+# Optional: Use secrets for production
+# Run `wrangler secret put OPENROUTER_API_KEY` to set the key securely

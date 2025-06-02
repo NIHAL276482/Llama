@@ -1,5 +1,5 @@
 // index.js
-const OPENROUTER_API_KEY = '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';
+const OPENROUTER_API_KEY = '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';
 const OPENROUTER_API_URL = 'https://openrouter.ai/api/v1/chat/completions';
 const MODEL = 'google/gemini-2.5-pro-exp-03-25';
 

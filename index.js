@@ -1,7 +1,7 @@
 // index.js
 const OPENROUTER_API_KEY = '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';
 const OPENROUTER_API_URL = 'https://openrouter.ai/api/v1/chat/completions';
-const MODEL = 'sarvamai/sarvam-m:free';
+const MODEL = 'agentica-org/deepcoder-14b-preview:free';
 
 export default {
   async fetch(request, env, ctx) {

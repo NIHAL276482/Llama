@@ -1,5 +1,5 @@
 # wrangler.toml
-name = "deepcoder-ai"
+name = "openrouter-chat-worker"
 main = "index.js"
 compatibility_date = "2025-06-02"
 workers_dev = true

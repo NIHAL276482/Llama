@@ -1,7 +1,7 @@
 # wrangler.toml
-name = "google-2-5"
+name = "google-3"
 main = "index.js"
-compatibility_date = "2025-06-01"
+compatibility_date = "2025-06-02"
 workers_dev = true
 
 # No custom domain, uses default *.workers.dev
